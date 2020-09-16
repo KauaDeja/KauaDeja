@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to headquarters 👋
 
-<!--
-**KauaDeja/KauaDeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Matrix](https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### My name is Kaua Deja
+  #### "Science fiction is a great way to pretend you're talking about the future when, in reality, you're attacking the recent past and the present"
+
+- 🔭 I’m currently working on: Currently studying c#, html and css
+- 🌱 I’m currently learn: I'm studying Systems Development
+- 💬 Ask me about: My name is Kaua Deja T_T
+- 📫 How to reach me: You can access my email, which is in my description.
+- ⚡ Fun fact:Like to play video games and I love books, mainly, accompanied by
+good musica
+ 

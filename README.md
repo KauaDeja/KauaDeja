@@ -16,8 +16,8 @@ good musica
 <p align = "left"> <a href = " https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=kauadeja" alt = "kauadeja" /> </a> </p> 
 
 
-<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=kauadeja&show_icons=true&locale=en" alt = "kauadeja" /> </p>
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=kauadeja&show_icons=true&locale=en&layout=compact" alt = "kauadeja" /> </p>
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=kauadeja&show_icons=true&locale=en" alt = "kauadeja" /> </p><p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=kauadeja&show_icons=true&locale=en&layout=compact" alt = "kauadeja" /> </p>
+
 
 
  

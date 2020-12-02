@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kaua Deja</h1>
+<h1 align="center">Welcome to headquarters 👋, I'm Kaua Deja</h1>
 <h3 align="center">A Physical Future</h3>
+
+![Matrix](https://media.giphy.com/media/ScHxhuCwqgF7a/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauadeja&label=Profile%20views&color=0e75b6&style=flat" alt="kauadeja" /> </p>
 

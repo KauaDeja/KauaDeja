@@ -24,6 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block "><br>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 </div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">

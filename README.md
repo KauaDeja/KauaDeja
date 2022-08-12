@@ -2,15 +2,9 @@
 
 ![Matrix](https://media.giphy.com/media/ScHxhuCwqgF7a/giphy.gif)
 
-## 💜 Olá ##
+## 💜 About me ##
 
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-----
+> My name is Kaua Deja, I'm 18 years old and I'm a cybersecurity student, systems development, computer networks and cloud. Also, I like to read books, games, movies and series!
 
 ## 🚀 Minhas Skills
 
@@ -31,7 +25,14 @@
 
 ## 🌍 Social
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauadeja/" /></a>
+
+</p>  
 
 
 

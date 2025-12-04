@@ -4,7 +4,7 @@
 
 ## 💜 About me ##
 
-> My name is Kaua Deja, I'm 18 years old and I'm a cybersecurity student, systems development, computer networks and cloud. Also, I like to read books, games, movies and series!
+> My name is Kaua Deja, I'm 21 years old and I'm a cybersecurity student, systems development, computer networks and cloud. Also, I like to read books, games, movies and series!
 
 ## 🚀 Minhas Skills
 
